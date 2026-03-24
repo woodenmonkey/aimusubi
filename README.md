@@ -22,6 +22,9 @@ AIMusubi is the platform. Each repository below is a **reference implementation*
 - **Tesla Gateway (separate repository)**  
   Intent-driven agentic control demo for Tesla vehicles using the same observe → decide → act → verify loop, with governance controls.
 
+- **AIMusubi Control-Plane Forensics (separate repository)**  
+  AIMusubi Control-Plane Forensics is a topology-aware, deterministic incident reconstruction framework designed to explain why control-plane changes occur 
+
 See `PROJECTS.md` for a shelf view and links to each project.
 
 ---
